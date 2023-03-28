@@ -1,5 +1,9 @@
 # Normal BMI
 
-![imaged](NormalBMINumbers.jpg)
+![image](NormalBMINumbers.jpg)
+
+![image](EthicsandExcellence.jpg)
+
+![image](USCopyrightCertificate.png)
 
 Additional details https://github.com/alpaddesai/LifeStyle
