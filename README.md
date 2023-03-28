@@ -2,7 +2,7 @@
 
 ![image](NormalBMINumbers.jpg)
 
-![image](EthicsandExcellence.jpg)
+![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
 
