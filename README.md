@@ -1,4 +1,4 @@
 # Normal BMI
 
-![imaged](NormalBMI.jpg)
+![imaged](NormalBMINumbers.jpg)
 
